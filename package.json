@@ -1,0 +1,8 @@
+{
+  "dependencies": {},
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fmolliet <fmolliet@hotmail.com>",
+  "license": "MIT"
+}
